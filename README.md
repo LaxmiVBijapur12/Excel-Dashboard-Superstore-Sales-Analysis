@@ -1,4 +1,4 @@
-# 🏬 Superstore Sales Data Analysis Project
+# 🏬 Superstore Sales Data Analysis
 
 This project focuses on analyzing the **Superstore Sales dataset** to uncover key insights into sales, profit, and customer behavior. The goal is to leverage data analysis techniques to support better decision-making in retail and business strategy.
 
